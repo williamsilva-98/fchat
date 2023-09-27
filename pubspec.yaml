@@ -1,6 +1,6 @@
 name: fchat
 description: A complete and beautiful chat wrapper for Flutter.
-version: 1.0.0
+version: 1.0.0+1
 
 homepage: https://github.com/williamsilva-98/fchat
 
@@ -19,3 +19,7 @@ dependencies:
 dev_dependencies:
   lints: ^2.0.0
   test: ^1.16.0
+
+platforms:
+  ios: 
+  android:
