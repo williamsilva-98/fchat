@@ -125,6 +125,7 @@ class _MyHomePageState extends State<MyHomePage> {
                 );
               }
           }
+
           return FChat(
             messages: messages,
             onSend: onSend,
